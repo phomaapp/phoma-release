@@ -13,6 +13,11 @@ Get the Windows installer from the
 from [phomaapp.com](https://phomaapp.com). An installed copy updates itself.
 Pre-releases are beta builds.
 
+Android builds of **Phoma Companion** use `companion-v<version>` release tags
+and `phoma-companion-v<version>.apk` assets. Their release notes are maintained
+in [`companion/README.md`](companion/README.md). Companion releases never take
+over the desktop app's **Latest** label.
+
 ## Release notes
 
 What each release changes, newest first. Phoma shows these notes on its
