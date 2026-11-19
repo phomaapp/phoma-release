@@ -24,6 +24,18 @@ What each release changes, newest first. Phoma shows these notes on its
 About screen, next to an available update and for the version you are running,
 in English or Vietnamese.
 
+### v2.0.0-beta.14 — 2026-11-19
+
+**English**
+
+- **Agent**: Claude Code and Codex subscription accounts can now work through Phoma directly. They keep their own conversation while using the same confirmed, safe actions as the built-in Agent.
+- **Flows**: a new **App action** block lets a flow manage saved flows, phone names and the app library, then save an action's result for the next block. It keeps these actions local to Phoma; flows locked by the Store cannot use them.
+
+**Tiếng Việt**
+
+- **Agent**: tài khoản thuê bao Claude Code và Codex giờ làm việc trực tiếp qua Phoma. Mỗi bên vẫn giữ cuộc trò chuyện riêng nhưng dùng cùng các thao tác an toàn, có xác nhận như Agent có sẵn.
+- **Flow**: khối **Thao tác ứng dụng** mới cho flow quản lý flow đã lưu, tên điện thoại và kho ứng dụng, rồi lưu kết quả để khối tiếp theo dùng. Thao tác chỉ chạy trong Phoma; flow bị khóa từ Cửa hàng không dùng được.
+
 ### v2.0.0-beta.13 — 2026-11-19
 
 **English**
