@@ -24,6 +24,28 @@ What each release changes, newest first. Phoma shows these notes on its
 About screen, next to an available update and for the version you are running,
 in English or Vietnamese.
 
+### v2.0.0-beta.13 — 2026-11-19
+
+**English**
+
+- **Inspector**: **Inspect mode** is now on by default, so clicking a phone opens the inspector. Turn it off on the **Display** tab to control phones by clicking them.
+- **Inspector**: a cleaner inspector. The header names the phone, its address and its resolution. The tool bar shows which panel is open, and every panel has its own header, actions and close button.
+- **Inspector**: the layout tree shows short class names with each element's text and ID, opens fully, and can be searched by class, text or ID. Hover over an element to outline it on the phone. Properties are grouped, and the element's position, size and center point (where to tap) can be copied.
+- **Inspector**: the **Apps** and **Install APK** panels are clearer. Installing shows the file and its size, and lists the phones it will install on before you start.
+- **Settings kept**: Phoma now remembers your choices for each account, including **Inspect mode**, how phone screens are rotated, the open tab on **Phones**, the Agent panel and its width, the options when installing an APK or adding a run, and the height of the run queue. Signing in with another account brings that account's own choices.
+- **Pick up where you left off**: reopening Phoma brings back the screen you were on, each screen's tab, search and filters, and the Agent chat you had open with any message you had not sent yet.
+- **Pick up where you left off**: if Phoma closes while a dialog is open, such as renaming a phone or flow, inviting to a team, writing a review, setting a run's schedule, or editing your seller profile, a listing, bank details or a payout, it opens again with what you had typed. **Discard my edits** puts it back as it was. Payments are never kept.
+
+**Tiếng Việt**
+
+- **Trình kiểm tra bố cục**: **Chế độ kiểm tra bố cục** giờ bật sẵn, bấm vào điện thoại là mở trình kiểm tra. Tắt ở tab **Hiển thị** nếu muốn bấm để điều khiển điện thoại.
+- **Trình kiểm tra bố cục**: giao diện gọn hơn. Phần đầu ghi tên điện thoại, địa chỉ và độ phân giải. Thanh công cụ cho biết bảng nào đang mở, và mỗi bảng có tiêu đề, nút thao tác và nút đóng riêng.
+- **Trình kiểm tra bố cục**: cây bố cục hiện tên class ngắn gọn kèm chữ và ID của từng phần tử, mở sẵn toàn bộ, và tìm được theo class, chữ hoặc ID. Rê chuột lên một phần tử để thấy nó được viền trên màn hình điện thoại. Thuộc tính được chia nhóm, và chép được vị trí, kích thước, tâm (điểm chạm) của phần tử.
+- **Trình kiểm tra bố cục**: bảng **Ứng dụng** và **Cài APK** rõ ràng hơn. Khi cài, app hiện tên tệp, dung lượng và danh sách điện thoại sẽ được cài trước khi bắt đầu.
+- **Lưu cấu hình**: Phoma giờ nhớ lựa chọn của bạn theo từng tài khoản, gồm **Chế độ kiểm tra bố cục**, góc xoay màn hình điện thoại, tab đang mở ở **Điện thoại**, panel Agent và độ rộng của nó, các tùy chọn khi cài APK hoặc thêm lượt chạy, và chiều cao hàng đợi chạy. Đăng nhập tài khoản khác sẽ dùng lựa chọn của riêng tài khoản đó.
+- **Tiếp tục từ chỗ dừng**: mở lại Phoma sẽ về đúng màn hình đang dùng, giữ tab, ô tìm kiếm và bộ lọc của từng màn, cùng cuộc trò chuyện Agent đang mở và tin nhắn chưa gửi.
+- **Tiếp tục từ chỗ dừng**: nếu Phoma đóng khi một hộp thoại đang mở, như đổi tên điện thoại hay flow, mời vào team, viết đánh giá, đặt lịch chạy, sửa hồ sơ người bán, mục đăng bán, tài khoản ngân hàng hoặc yêu cầu rút tiền, hộp thoại sẽ mở lại với phần bạn đã gõ. **Bỏ phần đã sửa** đưa về như cũ. Thông tin thanh toán không bao giờ được lưu.
+
 ### v2.0.0-beta.12 — 2026-11-11
 
 **English**
