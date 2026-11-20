@@ -24,6 +24,20 @@ What each release changes, newest first. Phoma shows these notes on its
 About screen, next to an available update and for the version you are running,
 in English or Vietnamese.
 
+### v2.0.0-beta.15 — 2026-11-20
+
+**English**
+
+- **Sidebar**: **Settings** and **About** now sit beside the account at the foot, while **Team & plan** keeps team work and invitations together. **Flow** comes before **Editor**, following the way a flow is picked before it is edited.
+- **Updates**: Phoma checks for a new version when it opens, marks **About** with a dot and shows a notification with the version ready to install.
+- **Phones**: what each phone is doing is now the coloured light in its header. Hover over it to read the full state without spending another line below every phone.
+
+**Tiếng Việt**
+
+- **Thanh bên**: **Cài đặt** và **Thông tin** giờ nằm cạnh tài khoản ở chân thanh bên; nhóm **Team & gói** giữ phần team và mời bạn bè cùng nhau. **Flow** đứng trước **Trình chỉnh sửa**, theo đúng thứ tự chọn flow rồi chỉnh sửa.
+- **Cập nhật**: Phoma kiểm tra phiên bản mới khi mở, đánh dấu chấm trên **Thông tin** và hiện thông báo kèm phiên bản đã sẵn sàng để cài.
+- **Điện thoại**: trạng thái của mỗi điện thoại giờ là đèn màu ngay trên phần đầu. Rê chuột lên đèn để đọc đầy đủ mà không tốn thêm một dòng dưới mỗi điện thoại.
+
 ### v2.0.0-beta.14 — 2026-11-19
 
 **English**
