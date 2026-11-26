@@ -9,7 +9,7 @@ This repository hosts the Windows installers, named
 ## Download
 
 Get the Windows installer from the
-[latest release](https://github.com/supsquad/phoma-release/releases/latest) or
+[latest release](https://github.com/phomaapp/phoma-release/releases/latest) or
 from [phomaapp.com](https://phomaapp.com). An installed copy updates itself.
 Pre-releases are beta builds.
 
