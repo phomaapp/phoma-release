@@ -24,6 +24,16 @@ What each release changes, newest first. Phoma shows these notes on its
 About screen, next to an available update and for the version you are running,
 in English or Vietnamese.
 
+### v2.0.0-beta.17 — 2026-11-26
+
+**English**
+
+- **Support**: **Email support** on **About** now writes to support@phomaapp.com, the same address the website gives.
+
+**Tiếng Việt**
+
+- **Hỗ trợ**: **Email hỗ trợ** ở **Thông tin** giờ gửi tới support@phomaapp.com, cùng địa chỉ ghi trên website.
+
 ### v2.0.0-beta.16 — 2026-11-26
 
 **English**
