@@ -9,6 +9,16 @@ desktop installer.
 
 ## Release notes
 
+### v0.1.1 — 2026-11-26
+
+**English**
+
+- **Release**: Phoma Companion is now published from Phoma's new home on GitHub, [github.com/phomaapp/phoma-release](https://github.com/phomaapp/phoma-release). The app itself works the same as in 0.1.0.
+
+**Tiếng Việt**
+
+- **Phát hành**: Phoma Companion giờ được phát hành từ địa chỉ mới của Phoma trên GitHub, [github.com/phomaapp/phoma-release](https://github.com/phomaapp/phoma-release). Bản thân ứng dụng vẫn hoạt động như ở 0.1.0.
+
 ### v0.1.0 — 2026-11-16
 
 **English**
