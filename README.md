@@ -24,6 +24,38 @@ What each release changes, newest first. Phoma shows these notes on its
 About screen, next to an available update and for the version you are running,
 in English or Vietnamese.
 
+### v2.0.0 — 2026-11-26
+
+**English**
+
+- **Phoma 2.0**: the first stable release since 1.1.6, with everything from the 2.0 betas. The app is now called **Phoma** in the Start menu, the window title, the tray and notifications; if you pinned it to the taskbar, pin it again once after updating.
+- **Account**: sign in to start, or create an account in your browser with email or Google. Each account's data stays separate on a shared computer. Flows and phones saved by 1.x are not carried over to 2.0.
+- **Agent**: an AI agent on every screen builds flows and works your phones, and Claude Code or Codex subscription accounts can work through Phoma too. It asks you before it installs or removes anything.
+- **Editor**: open several flows at once in tabs, each with its own undo, and get a warning before leaving unsaved changes. A new **App action** block lets a flow manage saved flows, phone names and the app library.
+- **Phones**: give phones nicknames and see what each one is doing from the light in its header. Clicking a phone opens the inspector: a searchable layout tree, element properties you can copy, and the phone's apps.
+- **Apps**: a library of the apps you put on your phones, from an .apk, a split bundle (.xapk, .apks, .apkm) or Google Play, installed on the phones you pick.
+- **Store and Sell**: browse and buy flows on the **Store**, and sell your own on **Sell**, with reviews, sales and payouts.
+- **Plans and teams**: buy a plan for your team, invite people by email, share flows with them, and use a teammate's phone over the internet as if it were plugged into your computer.
+- **Referral**: share your invite link to earn free days as people join, plus a commission on what they pay.
+- **Notifications**: a bell with an inbox tells you what happens to your account, and announcements show at the top of the main screens.
+- **Settings**: choose the language, whether closing the window keeps Phoma in the tray, how many runs go at once, the phone screen quality and how many steps the Agent may take. Phoma remembers your choices and reopens on the screen you left.
+- **About and updates**: see what an update brings before you install it. Phoma checks for a new version when it opens, and **Email support** writes to support@phomaapp.com.
+
+**Tiếng Việt**
+
+- **Phoma 2.0**: bản ổn định đầu tiên kể từ 1.1.6, gồm mọi thứ của các bản beta 2.0. App giờ tên là **Phoma** trong Start menu, tiêu đề cửa sổ, khay hệ thống và thông báo; nếu bạn đã ghim app lên taskbar, hãy ghim lại một lần sau khi cập nhật.
+- **Tài khoản**: đăng nhập để bắt đầu, hoặc tạo tài khoản trên trình duyệt bằng email hay Google. Dữ liệu của mỗi tài khoản tách riêng khi dùng chung một máy. Flow và điện thoại đã lưu ở bản 1.x không được chuyển sang 2.0.
+- **Agent**: AI agent có mặt ở mọi màn, dựng flow và thao tác trên điện thoại của bạn; tài khoản thuê bao Claude Code hoặc Codex cũng làm việc được qua Phoma. Lần nào cài hay gỡ ứng dụng, Agent cũng hỏi bạn trước.
+- **Trình chỉnh sửa**: mở nhiều flow cùng lúc trong các tab, mỗi tab có lịch sử hoàn tác riêng, và được cảnh báo trước khi rời flow còn thay đổi chưa lưu. Khối **Thao tác ứng dụng** mới cho flow quản lý flow đã lưu, tên điện thoại và kho ứng dụng.
+- **Điện thoại**: đặt tên gợi nhớ cho điện thoại và xem mỗi máy đang làm gì qua đèn màu trên phần đầu. Bấm vào điện thoại là mở trình kiểm tra bố cục: cây bố cục tìm kiếm được, thuộc tính phần tử chép được, và các ứng dụng trên máy.
+- **Kho ứng dụng**: thư viện các ứng dụng bạn cài lên điện thoại, từ tệp .apk, gói chia nhỏ (.xapk, .apks, .apkm) hoặc Google Play, cài lên các điện thoại bạn chọn.
+- **Cửa hàng và Bán flow**: xem và mua flow ở **Cửa hàng**, bán flow của bạn ở **Bán flow**, kèm kết quả duyệt, doanh số và rút tiền.
+- **Gói và team**: mua gói cho team, mời người khác qua email, chia sẻ flow cho họ, và dùng điện thoại của đồng đội qua internet như đang cắm vào máy của bạn.
+- **Giới thiệu**: chia sẻ liên kết mời để nhận thêm ngày dùng miễn phí khi có người tham gia, cùng hoa hồng trên số tiền họ trả.
+- **Thông báo**: chuông kèm hộp thư báo những việc xảy ra với tài khoản của bạn, và thông báo chung hiện ở đầu các màn chính.
+- **Cài đặt**: chọn ngôn ngữ, đóng cửa sổ thì Phoma chạy tiếp ở khay hệ thống hay thoát, số lượt chạy cùng lúc, chất lượng màn hình điện thoại và số bước Agent được làm. Phoma nhớ lựa chọn của bạn và mở lại đúng màn bạn đang dùng.
+- **Thông tin và cập nhật**: xem bản cập nhật có gì mới trước khi cài. Phoma kiểm tra phiên bản mới khi mở, và **Email hỗ trợ** gửi tới support@phomaapp.com.
+
 ### v2.0.0-beta.17 — 2026-11-26
 
 **English**
