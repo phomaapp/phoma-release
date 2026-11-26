@@ -24,6 +24,16 @@ What each release changes, newest first. Phoma shows these notes on its
 About screen, next to an available update and for the version you are running,
 in English or Vietnamese.
 
+### v2.0.0-beta.16 — 2026-11-26
+
+**English**
+
+- **Updates**: Phoma's releases and their notes have a new home on GitHub, [github.com/phomaapp/phoma-release](https://github.com/phomaapp/phoma-release). Updates and **Release history** on **About** now go there directly; links to the old address keep working.
+
+**Tiếng Việt**
+
+- **Cập nhật**: các bản phát hành của Phoma và ghi chú đi kèm đã chuyển sang địa chỉ mới trên GitHub, [github.com/phomaapp/phoma-release](https://github.com/phomaapp/phoma-release). Bản cập nhật và **Lịch sử phát hành** ở **Thông tin** giờ trỏ thẳng tới đó; liên kết theo địa chỉ cũ vẫn dùng được.
+
 ### v2.0.0-beta.15 — 2026-11-20
 
 **English**
